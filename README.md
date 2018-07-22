@@ -6,32 +6,23 @@ The tips below focus on the art of composition, follow these to improve your pho
 
 * Follow the rule of thirds by enabling the grid on your phone's camera and make sure that the subject in focus is placed on the following points as shown in the image.
 
+![Image](./images/Rules-Of-Composition.png)
+Focus Image should be placed on either of the red dots.
 
+* Image should either be placed on the bottom 1/3 or the top 2/3 of the camera (**Tip** - Use the Grid feature of the camera)
 
-```markdown
-Syntax highlighted code block
+* Focus image should never be centered on the camera and should be placed on either right or the left from the center.
 
-# Header 1
-## Header 2
-### Header 3
+![Image](./images/Rules-Of-Composition-II.png)
 
-- Bulleted
-- List
+* **Straighten the Horizon** - Use the balance bar (or the grid in case the camera does not have a balance bar) to make sure that the horizon is kept straight. A tilted photograph gives the user an unsettling feeling.
 
-1. Numbered
-2. List
+* Always make sure that the number of subjects are always odd as the eyes always focus on odd number of individuals.
 
-**Bold** and _Italic_ and `Code` text
+* **Placement of Light** - A camera should never be facing the light source as it would result in dark and under exposed images. Make sure that the light source is always behind the camera.
 
-[Link](url) and ![Image](src)
-```
+* **Shadows** - Make sure that the shadows do not fall at odd points, the image should not contain your shadow. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* **Background** - Background play a very crucial part as they give the images a sense of depth and helps them gain focus. Make sure that the bacground is always neutral and does not contain any pattern.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/subzw0rld/photography-tips/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* **Perspective** - Always give your subject some perspective so that they don't stand out flat.

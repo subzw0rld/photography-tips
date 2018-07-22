@@ -26,3 +26,7 @@ Focus Image should be placed on either of the red dots.
 * **Background** - Background play a very crucial part as they give the images a sense of depth and helps them gain focus. Make sure that the bacground is always neutral and does not contain any pattern.
 
 * **Perspective** - Always give your subject some perspective so that they don't stand out flat.
+
+* Do not use the camera zoom of your phone as they use digital zoom which makes the images blurry.
+
+* **Post-Processing** - Use software like Lightroom (preferably) or Photoshop to touch up your images.
